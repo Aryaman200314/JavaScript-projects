@@ -1,0 +1,16 @@
+#wrapper{
+    text-align: center;
+    margin: 30px;
+}
+#subt{
+    border-radius: 8px;
+    height: 30px;
+}
+#guessField{
+    border-radius: 8px;
+    height: 27px;
+}
+#newGame{
+    border-radius: 8px;
+    height: 30px;
+}
